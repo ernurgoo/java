@@ -1,0 +1,23 @@
+0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.25083.149.0" ResourceId="split.language-de" FileName="CopilotNative.Package_1.25083.149.0_language-de.msix" Offset="123425751" Size="40000">
+			<Resources>
+				<Resource Language="de-de"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Desktop" MinVersion="10.0.19041.0" MaxVersionTested="10.0.22621.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.25083.149.0" ResourceId="split.language-hi" FileName="CopilotNative.Package_1.25083.149.0_language-hi.msix" Offset="123990459" Size="42670">
+			<Resources>
+				<Resource Language="hi-in"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Desktop" MinVersion="10.0.19041.0" MaxVersionTested="10.0.22621.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.25083.149.0" ResourceId="split.language-ne" FileName="CopilotNative.Package_1.25083.149.0_language-ne.msix" Offset="124993793" Size="41470">
+			<Resources>
+				<Resource Language="ne-np"/>
+			</Resou

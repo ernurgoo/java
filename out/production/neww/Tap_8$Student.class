@@ -1,0 +1,25 @@
+ge_1.25083.149.0_language-az-latn.msix" Offset="123098674" Size="39229">
+			<Resources>
+				<Resource Language="az-latn-az"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Desktop" MinVersion="10.0.19041.0" MaxVersionTested="10.0.22621.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.25083.149.0" ResourceId="split.language-id" FileName="CopilotNative.Package_1.25083.149.0_language-id.msix" Offset="124155568" Size="36460">
+			<Resources>
+				<Resource Language="id-id"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Desktop" MinVersion="10.0.19041.0" MaxVersionTested="10.0.22621.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.25083.149.0" ResourceId="split.language-gu" FileName="CopilotNative.Package_1.25083.149.0_language-gu.msix" Offset="123909640" Size="41978">
+			<Resources>
+				<Resource Language="gu-in"/>
+			</Resources>
+			<b4:Dependencies>
+				<b4:TargetDeviceFamily Name="Windows.Desktop" MinVersion="10.0.19041.0" MaxVersionTested="10.0.22621.0"/>
+			</b4:Dependencies>
+		</Package>
+		<Package Type="resource" Version="1.25083.149.0" ResourceId="split.la
