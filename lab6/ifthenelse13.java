@@ -1,24 +1,6 @@
-import java.util.Scanner;
-public class ifthenelse13 {
-        public static void main(String[] args) {
-
-            Scanner sc = new Scanner(System.in);
-            System.out.print("x енгіз: ");
-            double x = sc.nextDouble();
-
-            double f;
-
-            if (x > 1 && x <= 3) {
-                f = Math.sin(5*x)*(Math.sqrt(1+Math.pow(x,2)) + Math.pow(Math.log(x),2));
-            }
-            else if (x > 3 && x <= 5) {
-                f = Math.exp(x)*Math.cbrt(x + Math.exp(2*x));
-            }
-            else {
-                f = 0;
-                System.out.println("Анықталу облысына кірмейді");
-            }
-
-            System.out.println("F(x) = " + f);
-        }
-    }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v3" manifestVersion="1.0" copyright="Copyright (c) Microsoft Corporation. All Rights Reserved.">
+  <assemblyIdentity name="Microsoft-Windows-Help-ClientOOBE-N-Feature-Package" version="10.0.26100.4202" processorArchitecture="amd64" language="lv-LV" buildType="release" publicKeyToken="31bf3856ad364e35" />
+  <package identifier="Microsoft-Windows-Help-ClientOOBE-N-Feature-lv-LV" releaseType="Language Pack">
+    <parent disposition="detect">
+      <assemblyIdentity name="Microsoft-Windows-Help-ClientOOBE-N-Feature-Package" version="10.0.26100.4202" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856a
